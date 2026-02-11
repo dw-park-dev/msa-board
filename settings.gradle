@@ -1,0 +1,5 @@
+rootProject.name = 'msa-board'
+
+include 'common'
+include 'service'
+include 'service:article'
